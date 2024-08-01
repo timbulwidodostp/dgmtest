@@ -1,6 +1,8 @@
 # dgmtest
 Nonparametric Testing for Significance of Regressors and for the Presence of Measurement Error Use dgmtest With STATA 18
 
+https://www.youtube.com/watch?v=k2Rtc97-rq4
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
